@@ -5,4 +5,10 @@
 	<packageId>wyseheller.PlateArmorRetexture</packageId>
 	<supportedVersions><li>1.6</li></supportedVersions>
 	<description>Replaces Plate Armor and Simple Helmet textures.</description>
+	<loadAfter>
+		<li>AIRetexture.Core</li>
+		<li>Gerrymon.UVT</li>
+		<li>Stokes.SpaceKnightsArmorExpansionForVFEM2</li>
+		<li>tenthwit.apparel</li>
+	</loadAfter>
 </ModMetaData>
